@@ -8,8 +8,11 @@ I am currently on a journey to learn Go Lang, a powerful and efficient programmi
 # Repository Structure
 
 daily-updates/: Contains daily logs of what I have learned, challenges faced, and accomplishments achieved.
+
 code-examples/: Includes various Go Lang scripts and code examples that I write as I practice and apply new concepts.
+
 projects/: Features small projects or assignments that I undertake to reinforce my learning.
+
 resources/: A collection of useful resources, tutorials, and references that I find helpful during my learning journey.
 
 # Goals
