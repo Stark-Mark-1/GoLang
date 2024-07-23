@@ -1,4 +1,4 @@
-#Go Lang Learning Journey
+# Go Lang Learning Journey
 Welcome to my Go Lang learning repository! This space will serve as a daily log of my progress, updates, and the files I work on as I delve deeper into learning Go Lang.
 
 About
