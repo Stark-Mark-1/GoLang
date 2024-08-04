@@ -1,5 +1,8 @@
 package main
-import "fmt"
+import (
+	"fmt"
+)
+
 func main(){
 	var i = 1
 	for i<= 3{

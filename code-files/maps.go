@@ -6,7 +6,7 @@ import(
  func main(){
 	m := make(map[string]int)
 
-	m["k1"]= 1;
+	m["k1"]= 1
 	m["k2"]= 2
 	
 	fmt.Println("map: ", m)
