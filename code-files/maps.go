@@ -21,4 +21,14 @@ import(
 	clear(m)
 	fmt.Println("map: ", m)
 
+	n := map[string]int{"yo": 1, "no": 2}
+	fmt.Println("maps: ", n)
+
+	n2 := map[string]int{"yo": 1, "no": 2}
+	fmt.Println("maps: ", n2)
+
+	if maps.Equal(n, n2){
+		fmt.Println("equal")
+	}
+
  }
